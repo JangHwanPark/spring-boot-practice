@@ -1,4 +1,10 @@
-INSERT INTO user (user_id, name, password, email, role)
-VALUES (1, 'testuser', 'password', 'test@example.com', 'USER');
-INSERT INTO user (user_id, name, password, email, role)
-VALUES (2, 'adminuser', 'adminpassword', 'admin@example.com', 'ADMIN');
+INSERT INTO user (user_id, name, password, email, role) VALUES (1, 'testuser1', 'password1', 'test1@example.com', 'USER');
+INSERT INTO user (user_id, name, password, email, role) VALUES (2, 'adminuser2', 'adminpassword2', 'admin2@example.com', 'ADMIN');
+INSERT INTO user (user_id, name, password, email, role) VALUES (3, 'testuser3', 'password3', 'test3@example.com', 'USER');
+INSERT INTO user (user_id, name, password, email, role) VALUES (4, 'adminuser4', 'adminpassword4', 'admin4@example.com', 'ADMIN');
+INSERT INTO user (user_id, name, password, email, role) VALUES (5, 'testuser5', 'password5', 'test5@example.com', 'USER');
+INSERT INTO user (user_id, name, password, email, role) VALUES (6, 'adminuser6', 'adminpassword6', 'admin6@example.com', 'ADMIN');
+INSERT INTO user (user_id, name, password, email, role) VALUES (7, 'testuser7', 'password7', 'test7@example.com', 'USER');
+INSERT INTO user (user_id, name, password, email, role) VALUES (8, 'adminuser8', 'adminpassword8', 'admin8@example.com', 'ADMIN');
+INSERT INTO user (user_id, name, password, email, role) VALUES (9, 'testuser9', 'password9', 'test9@example.com', 'USER');
+INSERT INTO user (user_id, name, password, email, role) VALUES (10, 'adminuser10', 'adminpassword10', 'admin10@example.com', 'ADMIN');
