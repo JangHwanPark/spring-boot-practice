@@ -10,9 +10,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mariadb://infodb.ansan.ac.kr:3306/db2451506_db_practice
-    username: i2451506
-    password: qkr#wkd#ghks
+    url: ${data.url}
+    username: ${data.username}
+    password: ${data.password}
     driver-class-name: org.mariadb.jdbc.Driver
 
   jpa:
